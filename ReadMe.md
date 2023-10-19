@@ -36,3 +36,8 @@ Ce sont souvent ces proches aidants qui détectent les 1er signes d'un mal-être
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 </div>
+## Diagramme d'architecture d'application web :
+
+<br/>
+
+![image](/Diagramme_archi_drawio.png "image")
