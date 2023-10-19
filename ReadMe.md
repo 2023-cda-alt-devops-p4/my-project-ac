@@ -21,9 +21,9 @@ Ce sont souvent ces proches aidants qui détectent les 1er signes d'un mal-être
 
 ## Fonctionnalités :
 
-+ COMPTE UTILISATEUR : s'inscrire et se connecter à son profil, backoffice admin, vérification de l'identité
-+ REUNION : s'inscrire et/ou proposer une réunion, modérer une réunion, calendrier des réunions, notifications -> renvoie vers un channel vocal/visio Discord/Teams.
-+ TCHAT : ou forum, échange textuel, modération des échanges
++ **COMPTE UTILISATEUR** : s'inscrire et se connecter à son profil, backoffice admin, vérification de l'identité.
++ **REUNION** : s'inscrire et/ou proposer une réunion, modérer une réunion, calendrier des réunions, notifications -> renvoie vers un channel vocal/visio Discord/Teams.
++ **TCHAT** : ou forum, échange textuel, modération des échanges.
 
 ## Stack technique :
 
@@ -32,11 +32,13 @@ Ce sont souvent ces proches aidants qui détectent les 1er signes d'un mal-être
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![mySQL](https://img.shields.io/badge/mySQL-ffca28?style=for-the-badge&logo=mySQL&logoColor=black)
+
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 </div>
-## Diagramme d'architecture d'application web :
+
+## Diagramme d'architecture d'application web :   
 
 <br/>
 
